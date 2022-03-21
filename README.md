@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/ArttX/ArttX/blob/main/assets/images/programmer.svg" height=300>
+</div>
+
 <h1 align="center">Hi 👋, I'm ArttX</h1>
 <h3 align="center">A programmer fascinated about programming</h3>
 
