@@ -11,9 +11,9 @@
 {
   currentlyWorkingOn: [ "own website", "own Discord bot" ],
 
-  learning: [ "Next.js" ],
+  learning: [ "Rust" ],
 
-  wantToLearn: [ "Redis", "React Native", "Kotlin" ],
+  wantToLearn: [ "Redis", "QStash", "React Native" ],
 }
 ```
 
