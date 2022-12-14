@@ -9,11 +9,13 @@
 
 ```ts
 {
+  favoriteLanguages: [ "Typescript", "Lua" ],
+  
   currentlyWorkingOn: [ "own website", "own Discord bot" ],
-
+  
   learning: [ "Rust" ],
-
-  wantToLearn: [ "Redis", "QStash", "React Native" ],
+  
+  wantToLearn: [ "Redis", "QStash", "Tauri", "React Native" ],
 }
 ```
 
