@@ -27,12 +27,6 @@
   <a href="https://www.w3schools.com/js/">
     <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40 height=40>
   </a>
-  <a href="https://www.w3schools.com/cpp/">
-    <img alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=40 height=40>
-  </a>
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40 height=40>
-  </a>
   <a href="https://www.lua.org/about.html">
     <img alt="Lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width=40 height=40>
   </a>
@@ -66,7 +60,7 @@
   <a href="https://unity.com/">
     <img alt="Unity" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width=40 height=40>
   </a>
-    <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/">
     <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width=40 height=40>
   </a>
 </p>
