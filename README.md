@@ -6,10 +6,10 @@ A programmer fascinated about programming
 
 ```ts
 {
-  ⚡ favoriteLanguages: [ "Typescript", "Lua" ],
-  🚀 currentlyWorkingOn: [ "own website", "own Discord bot" ],
+  ⚡ knownLanguages: [ "Typescript", "Lua", "Go", "Rust" ],
+  🚀 currentlyWorkingOn: [ "Website", "Discord bot", "Node packages" ],
   🧠 learning: [ "Rust" ],
-  🖥️ wantToLearn: [ "Redis", "QStash", "Tauri", "React Native" ],
+  🖥️ wantToLearn: [ "Redis", "QStash", "Flutter" ],
 }
 ```
 
